@@ -14,12 +14,18 @@ bonzi open http://github.com
 
 ```bash
 bonzi say "hi"
+```
 
 ### Delete all your data:
 
 ```bash
 sudo bonzi rm -rf /
 ```
+
+## Installation
+
+Move `bin/bonzi` into your `$PATH`. If you don't know how to do that, just ask
+Bonzi!
 
 # THE POSSIBILITIES ARE ENDLESS!
 
