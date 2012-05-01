@@ -27,5 +27,10 @@ sudo bonzi rm -rf /
 Move `bin/bonzi` into your `$PATH`. If you don't know how to do that, just ask
 Bonzi!
 
+## Transition to Bonzi
+
+To make it easy to transition to Bonzi commands, we've made them as similar as
+possible to UNIX commands. Try one, if it doesn't work - let us know.
+
 # THE POSSIBILITIES ARE ENDLESS!
 
