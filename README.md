@@ -4,7 +4,7 @@ Bonzi Buddy can do /anything/. All you have to do, is ask the right question.
 
 ## Examples:
 
-![Bonzi Buddy just Wants To Help](example.png)
+![Bonzi Buddy just Wants To Help](https://github.com/grahamc/bonzi-buddy/raw/master/example.png)
 
 ### Go to a website:
 
